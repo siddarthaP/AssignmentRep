@@ -1,0 +1,13 @@
+//file displayed in local sytem
+Login Page
+
+Enter the username
+ Enter the password 
+ submit
+/---------------------------/
+The Test Complete
+Login Message :Successfully Logged in 
+/--------------------------/
+//second output
+The Test Complete
+Login Message :UserName or Password is Wrong 
